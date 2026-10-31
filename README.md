@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0881-boats-to-save-people) |
 ## Matrix
