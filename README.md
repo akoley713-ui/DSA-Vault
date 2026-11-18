@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0443-string-compression) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
