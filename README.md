@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2643-row-with-maximum-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
