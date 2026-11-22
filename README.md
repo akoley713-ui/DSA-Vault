@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0881-boats-to-save-people) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -264,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
