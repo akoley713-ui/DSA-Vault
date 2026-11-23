@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0509-fibonacci-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0268-missing-number) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -273,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
