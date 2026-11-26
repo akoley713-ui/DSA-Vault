@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
